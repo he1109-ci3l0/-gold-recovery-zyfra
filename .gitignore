@@ -9,3 +9,6 @@ __pycache__/
 # Entorno y sistema
 .DS_Store
 .env
+
+# Notas de proceso (no se suben)
+hidden/
